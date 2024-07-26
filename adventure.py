@@ -1,7 +1,7 @@
 print("""
 Find the Dragon Egg
 ===================
-
+465565
 Your quest starts.
 """)
 
